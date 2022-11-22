@@ -1,4 +1,6 @@
-# SPPU-FE2019-OOP-Lab
+# SPPU-2019 Pattern
+# SE OOP-Lab
+
 OOP Lab solutions
 
 Group A :-
